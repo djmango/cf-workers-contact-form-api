@@ -1,4 +1,5 @@
 name = "cf-workers-contact-form-api"
+main = "src/index.ts"
 compatibility_date = "2023-12-01"
 
 # [vars]
