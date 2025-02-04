@@ -1,7 +1,5 @@
 # Hono Contact Form API (Cloudflare Workers based)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Sigmakib2/cf-workers-contact-form-api)
-
 A worker-based contact form API made using Hono JS which can be hosted on Cloudflare workers! Submissions can be sent to Discord and stored in a database.
 
 ## Cloudflare Workers vs. Other APIs
