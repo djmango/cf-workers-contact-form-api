@@ -1,4 +1,4 @@
-name = "cf-workers-contact-form-api"
+name = "ksi-email"
 main = "src/index.ts"
 compatibility_date = "2023-12-01"
 
